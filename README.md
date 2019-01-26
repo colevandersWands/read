@@ -1,3 +1,4 @@
+```js
 function read(file_name) {
   console.clear();
 
@@ -16,3 +17,4 @@ function read(file_name) {
 
   return 'loaded script ' + file_name;
 }
+```
